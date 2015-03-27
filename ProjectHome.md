@@ -1,0 +1,1 @@
+Este proyecto fue desarrollado por Eder Martinez y Seth Luis, alumnos estudiantes de la carrera de Ingenieria en Sistemas Computacionales en la Universidad de Montemorelos, quienes laboran en el Departamento de Informacion y de Sistemas de la universidad.
